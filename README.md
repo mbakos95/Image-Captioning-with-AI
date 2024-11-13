@@ -1,35 +1,5 @@
 <html>
-<head>
-    <title>Image Captioning Project</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1 {
-            color: #4CAF50;
-        }
-        h2 {
-            color: #333;
-            border-bottom: 2px solid #4CAF50;
-        }
-        code {
-            background-color: #eaeaea;
-            padding: 5px;
-            border-radius: 3px;
-        }
-        .code-block {
-            background-color: #f4f4f4;
-            border: 1px solid #ddd;
-            padding: 10px;
-            margin: 10px 0;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
-</head>
+
 <body>
     <h1>Image Captioning with AI</h1>
     <h2>Overview</h2>
